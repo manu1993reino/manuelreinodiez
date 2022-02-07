@@ -14,6 +14,10 @@ $apellido2="Diez";
 $num1=8;
 $num2=4;
 
+function nuevaFuncionalidad(){
+	echo "Esta es una nueva funcionalidad";
+}
+
 echo "<h3>Ejercicio 1</h3>";
 echo "Hola Mundo </br>";
 
