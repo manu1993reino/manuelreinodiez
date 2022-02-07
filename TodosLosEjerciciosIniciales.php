@@ -8,7 +8,7 @@
 
 <?php
 
-$nombre="Manuel Antonio";
+$nombre="Manuel";
 $apellido1="Reino";
 $apellido2="Diez";
 $num1=8;
