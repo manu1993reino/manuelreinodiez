@@ -7,14 +7,14 @@ Este preoyecto esta de respaldo para práctica propuesta en la asignatura de Des
 Windows 10/Mac/Linux
 <br>
 8GB RAM
-
-# Requisitos para su instalación / Puesta en marcha
-
+<br>
 https://github.com/manu1993reino/manuelreinodiez.wiki.git
 
 # Guía rápida de instalación
 
-
+Abres el programa y siguiente siguiente
+<br>
+https://github.com/manu1993reino/manuelreinodiez.wiki.git
 
 # Información sobre los autores.
 
