@@ -8,16 +8,19 @@
 
 <?php
 
+//Estas son las variables
 $nombre="Manuel Antonio";
 $apellido1="Reino";
 $apellido2="Diez";
 $num1=8;
 $num2=4;
 
+//Esto es una función
 function nuevaFuncionalidad(){
 	echo "Esta es una nueva funcionalidad";
 }
 
+//Estos son Strings
 echo "<h3>Ejercicio 1</h3>";
 echo "Hola Mundo </br>";
 
