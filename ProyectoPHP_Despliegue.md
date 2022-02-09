@@ -9,7 +9,11 @@ Windows 10/Mac/Linux
 
 # Requisitos para su instalación / Puesta en marcha
 
+https://github.com/manu1993reino/manuelreinodiez.wiki.git
+
 # Guía rápida de instalación
+
+
 
 # Información sobre los autores.
 
