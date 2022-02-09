@@ -19,4 +19,5 @@ https://github.com/manu1993reino/manuelreinodiez.wiki.git
 # Información sobre los autores.
 
 Author: Manuel Antonio Reino Diez - Estudiando de segundo año de DAW
+<br>
 Colaborator: Mireya López Marin
