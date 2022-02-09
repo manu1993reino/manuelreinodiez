@@ -5,6 +5,7 @@ Este preoyecto esta de respaldo para práctica propuesta en la asignatura de Des
 # Requisitos para su instalación / Puesta en marcha
 
 Windows 10/Mac/Linux
+<br>
 8GB RAM
 
 # Requisitos para su instalación / Puesta en marcha
